@@ -1,0 +1,2 @@
+# CODSOFT_DIGITAL-CLOCK
+I developed DIGITAL CLOCK using HTML , CSS , JAVASCRIPT task 3 of cod soft
